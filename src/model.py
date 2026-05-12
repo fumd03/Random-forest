@@ -1,3 +1,4 @@
+# Additional imports for the model
 from sklearn.pipeline import Pipeline
 from sklearn.compose import ColumnTransformer
 from sklearn.preprocessing import OneHotEncoder
